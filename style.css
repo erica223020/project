@@ -1,0 +1,18 @@
+.btn{
+    display: inline-block;
+    border:1px solid #aaa;
+    background-color:rgb(223, 24, 24);
+    padding:0 1em;
+    line-height: 3.5em;
+}
+
+a.btn{
+    background-color: tomato;
+    border-color: transparent;
+}
+
+.one,.box{
+    width:200px;
+    height:100px;
+    background-color:pink;
+}
